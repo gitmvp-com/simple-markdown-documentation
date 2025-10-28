@@ -1,0 +1,10 @@
+# Table of Contents
+# Defines the navigation structure of the documentation
+
+# Getting started section
+- href: getting-started/intro.md
+  topics:
+    - href: getting-started/hello-world.md
+
+# Building apps section
+- href: building-apps/intro.md

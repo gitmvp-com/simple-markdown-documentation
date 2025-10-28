@@ -1,0 +1,5 @@
+build:
+    title: Simple Documentation
+    input-folder: src
+    output-folder: build
+    related-title: See Also
